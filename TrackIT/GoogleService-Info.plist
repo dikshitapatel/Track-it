@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAX8Ym7OHwFDjHExlmBiuzt8Hz2mHJWevA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>678603799247</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>syr.edu.TrackIT</string>
+	<key>PROJECT_ID</key>
+	<string>trackit-305a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trackit-305a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:678603799247:ios:7f36131dbb512a123a95ba</string>
+</dict>
+</plist>
