@@ -1,7 +1,8 @@
 # TrackIT - Expense Made Easy
+TrackIT - Expense Made Easy is a cutting-edge, intuitive smartphone software designed to simplify the process of tracking and managing personal finances. Developed with SwiftUI for iOS devices and using Firebase and Swift, TrackIT allows users to add, categorize, and view their spending effortlessly. The app includes features such as visualizing spending with a pie chart, accessing financial news and YouTube videos, and finding nearby banks on a map. TrackIT’s smooth and user-friendly interface makes managing personal finances easier for individuals.
+
 <img width="766" alt="Screenshot 2024-06-22 at 1 04 24 PM" src="https://github.com/dikshitapatel/Track-it/assets/51240335/fa469e76-b0a0-459f-9bec-8b60cecfe120">
 
-TrackIT - Expense Made Easy is a cutting-edge, intuitive smartphone software designed to simplify the process of tracking and managing personal finances. Developed with SwiftUI for iOS devices and using Firebase and Swift, TrackIT allows users to add, categorize, and view their spending effortlessly. The app includes features such as visualizing spending with a pie chart, accessing financial news and YouTube videos, and finding nearby banks on a map. TrackIT’s smooth and user-friendly interface makes managing personal finances easier for individuals.
 
 ## Features
 
